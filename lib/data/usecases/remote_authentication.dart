@@ -7,6 +7,7 @@ class RemoteAuthenticationParams {
   final String password;
 
   RemoteAuthenticationParams({required this.email, required this.password});
+  // # constructor
 
   factory RemoteAuthenticationParams.fromDomain(AuthenticationParams params) =>
       RemoteAuthenticationParams(email: params.email, password: params.secret);
