@@ -1,6 +1,6 @@
-//import 'package:flutter/material.dart';
-//import 'src-border/app.dart';
+import 'package:flutter/material.dart';
+import 'ui/components/components.dart';
 
-//void main() {
-  //runApp(App());
-//}
+void main() {
+  runApp(const App());
+}
