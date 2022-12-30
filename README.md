@@ -1,10 +1,3 @@
-Core do Whitelabel
-Responsável pela junção e gerenciamento dos serviços de hoteis, voos, pacotes, carros, seguros e mobilidade.
-
-Instalando
-
-Clone o repositório
-Inicialize os submodulos com
 
 
 git submodule init
